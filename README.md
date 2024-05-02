@@ -4,16 +4,20 @@
 ### Задание 1
  * <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/80336577edd74a888ede06eddbd309445d83112d/docker-compose.yml">docker-compose.yml</a>.
  * <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/80336577edd74a888ede06eddbd309445d83112d/application.properties">application.properties</a>.
+
+<a href="https://github.com/Nephedov/8.1.Automated-Testing">Репозиторий</a> с проектом.
 ### Задание 2
  * <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/76996bf175daca610c78f04cd205b918ba96ab58/docker-compose.yml">docker-compose.yml</a>.
  * <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/76996bf175daca610c78f04cd205b918ba96ab58/Dockerfile">Dockerfile</a>.
+
+<a href="https://github.com/Nephedov/8.2.Automated-Testing">Репозиторий</a> с проектом.
 ## Что было сделано
 * Задание 1
-  * Реализован docker-compose.yml.
-  * Реализован application.properties.
+  * Реализован <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/80336577edd74a888ede06eddbd309445d83112d/docker-compose.yml">docker-compose.yml</a>.
+  * Реализован <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/80336577edd74a888ede06eddbd309445d83112d/application.properties">application.properties</a>.
 * Задание 2
-  * Реализован Dockerfile.
-  * Реализован docker-compose.yml для сборки образа из Dockerfile.
+  * Реализован <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/76996bf175daca610c78f04cd205b918ba96ab58/Dockerfile">Dockerfile</a>.
+  * Реализован <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/76996bf175daca610c78f04cd205b918ba96ab58/docker-compose.yml">docker-compose.yml</a> для сборки образа из Dockerfile.
 ## Задача №1: PostgreSQL
 
 Вам необходимо подготовить приложение к тестированию на СУБД PostgreSQL. Используйте образ 13-alpine, если он недоступен, то берите последний опубликованный на Docker Hub.
