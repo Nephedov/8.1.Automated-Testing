@@ -2,13 +2,13 @@
 
 ## Решения
 ### Задание 1
- * <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/main/docker-compose.yml">docker-compose.yml</a>.
- * <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/main/application.properties">application.properties</a>.
+ * <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/main/docker-compose.yml">docker-compose.yml</a> - с PostgreSQL DB.
+ * <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/main/application.properties">application.properties</a> - данные для логина в DB.
 
 <a href="https://github.com/Nephedov/8.1.Automated-Testing">Репозиторий</a> с проектом.
 ### Задание 2
- * <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/main/docker-compose.yml">docker-compose.yml</a>.
- * <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/main/Dockerfile">Dockerfile</a>.
+ * <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/main/docker-compose.yml">docker-compose.yml</a> - собирающий образ из Dockerfile.
+ * <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/main/Dockerfile">Dockerfile</a> - с настройками порта, командой запуска приложения и образом Java 8.
 
 <a href="https://github.com/Nephedov/8.2.Automated-Testing">Репозиторий</a> с проектом.
 ## Что было сделано
@@ -16,7 +16,7 @@
   * Реализован <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/main/docker-compose.yml">docker-compose.yml</a> - разворачивающий PostgreSQL DB.
   * Реализован <a href="https://github.com/Nephedov/8.1.Automated-Testing/blob/main/application.properties">application.properties</a> - с данными логина в DB.
 * Задание 2
-  * Реализован <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/main/Dockerfile">Dockerfile</a>.
+  * Реализован <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/main/Dockerfile">Dockerfile</a> с командой запуска тестового приложения на указанном порту и использованием образа Java 8.
   * Реализован <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/main/docker-compose.yml">docker-compose.yml</a> для сборки образа из Dockerfile.
 ## Задача №1: PostgreSQL
 
