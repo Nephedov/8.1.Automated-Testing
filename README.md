@@ -18,7 +18,7 @@
 * Задание 2
   * Реализован <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/main/Dockerfile">Dockerfile</a> с командой запуска тестового приложения на указанном порту и использованием образа Java 8.
   * Реализован <a href="https://github.com/Nephedov/8.2.Automated-Testing/blob/main/docker-compose.yml">docker-compose.yml</a> для сборки образа из Dockerfile.
-## Задача №1: PostgreSQL
+## Описание Задания №1: PostgreSQL
 
 Вам необходимо подготовить приложение к тестированию на СУБД PostgreSQL. Используйте образ 13-alpine, если он недоступен, то берите последний опубликованный на Docker Hub.
 
@@ -34,7 +34,7 @@
 * docker-compose.yml,
 * README.md со скриншотом ответа приложения.
 
-## Задача №2: докеризация приложения (необязательная)
+## Описание Задания №2: докеризация приложения (необязательная)
 
 Приложение можно упаковать в Docker-образ, чтобы затем запускать из него контейнеры.
 
